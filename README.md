@@ -1,10 +1,7 @@
-![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/cover.png)
+![Alt Text](https://github.com/Anotherfella/Text-summarizer-api/blob/main/cover.png)
 <br>
 # Text-Summarizer-Flask-Deployment
-# Deployment Demo
 
-![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/Text%20Summarizer.gif)
-<br><br>
 # Table Of Contents
 - [Project Goal](#Project-Goal)
 - [Project Motivation](#Project-Motivation)
@@ -42,17 +39,12 @@
 5- **Generating Summary**
 
 # Technologies Used
+Python 3.10
+Flask
+NLTK
 
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Dep
-loyment-Heroku/blob/master/static/p1.jpg)
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p2.png)
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p3.png)
 
-# License
-
-![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/licence.jpg)
-<br>
-CopyRight 2020 DHEERAJ KUMAR
+CopyRight 2020 Abhinay Singh
 
       https://opensource.org/licenses/MIT
       
