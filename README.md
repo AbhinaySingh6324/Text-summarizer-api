@@ -43,8 +43,5 @@ Python 3.10
 Flask
 NLTK
 
-
-CopyRight 2020 Abhinay Singh
-
       https://opensource.org/licenses/MIT
      
